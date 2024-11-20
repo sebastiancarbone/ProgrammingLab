@@ -8,5 +8,5 @@ print (palindromo(stringa))
 #correzione
 # def palindromo(stringa):
 #     return stringa == stringa [::-1]
-#      
+#       
 # print(palindromo("ciao"))
