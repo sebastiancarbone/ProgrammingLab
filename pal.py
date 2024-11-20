@@ -6,7 +6,7 @@ stringa = "palla"
 print (palindromo(stringa))
 
 #correzione
-# s="ciao"
-# print(s[::-1])
-# def palindromo(stringa)
-#     return True
+# def palindromo(stringa):
+#     return stringa == stringa [::-1]
+#      
+# print(palindromo("ciao"))
